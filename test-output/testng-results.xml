@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-04T22:05:34 IST" name="Default suite" finished-at="2026-11-04T22:05:49 IST" duration-ms="15821">
+    <groups>
+    </groups>
+    <test started-at="2026-11-04T22:05:34 IST" name="Default test" finished-at="2026-11-04T22:05:49 IST" duration-ms="15821">
+      <class name="testngpackage.Iframepgm">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpackage.Iframepgm@38afe297]" started-at="2026-11-04T22:05:34 IST" name="setup" finished-at="2026-11-04T22:05:48 IST" duration-ms="13924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="namemthd()[pri:0, instance:testngpackage.Iframepgm@38afe297]" started-at="2026-11-04T22:05:48 IST" name="namemthd" finished-at="2026-11-04T22:05:49 IST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- namemthd -->
+      </class> <!-- testngpackage.Iframepgm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
